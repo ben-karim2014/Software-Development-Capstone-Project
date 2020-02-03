@@ -4,11 +4,11 @@ This is your repository for your capstone project. You will use this repository 
 
 ## Running AutoTest
 
-To run AutoTest:
+To run AutoTest: 
 
 1. Make a local commit on your machine and push it to your GitHub repository (or edit a file directly using the GitHub web editor).
 
-1. Go to that commit in the GitHub web interface.
+1. Go to that commit in the GitHub web interface...
 
 1. In the comments textbox at the bottom of the commit page, add a `@ubcbot #d0` (or use whatever `#dX` you wish to invoke). AutoTest will comment back on your commit once it has analyzed it. For more details, please see the AutoTest instructions.
 
