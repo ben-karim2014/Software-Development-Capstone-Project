@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarim-benlghalia%2FSoftware-Development-Capstone-Project&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarim-benlghalia%2FSoftware-Development-Capstone-Project&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 # Capstone bootstrap repository
 
 This is your repository for your capstone project. You will use this repository on your own for d0. If you elect to perform the rest of the capstone (d1, d2, and d3) on your own, we will update the repo for the rest of the project once you have completed d0. If you choose to work with a partner for the rest of the capstone (d1, d2, and d3), we will provision a new repository for you and your partner to work on together.
